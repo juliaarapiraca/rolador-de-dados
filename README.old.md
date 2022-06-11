@@ -1,1 +1,0 @@
-# rolador-de-dados
